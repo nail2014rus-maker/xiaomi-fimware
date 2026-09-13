@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/yuliitezarygml/xiaomi-fimware/releases" class="button">прошыфки</a><h1>
+<h1><a href="https://github.com/yuliitezarygml/xiaomi-fimware/releases" class="button"></a><h1>
 
 # Прошивки для Xiaomi TV Stick 4K
 
